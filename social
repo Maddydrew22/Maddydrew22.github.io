@@ -7,6 +7,9 @@
 
   <body>
     <!-- put navigation menu just below here -->
+    <a href="index.html">home</a>
+<a href="pictures.html">pictures</a>
+<a href="projects.html">projects</a>
 
     <h1>Social media</h1>
 
