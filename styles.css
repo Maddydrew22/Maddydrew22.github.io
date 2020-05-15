@@ -5,6 +5,16 @@ body {
     font: 1.2em / 1.2 Arial, Helvetica, sans-serif;
   }
 
+a {
+  color: #2c87f0;
+}
+a:visited {
+  color: #636;
+}
+a:hover, a:active, a:focus {
+  color:#c33;
+}
+
 h1 {
       color: #f5f5dc;
    
