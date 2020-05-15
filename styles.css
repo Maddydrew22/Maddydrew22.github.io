@@ -6,10 +6,10 @@ body {
   }
 
 a {
-  color: #2c87f0;
+  color: #800000;
 }
 a:visited {
-  color: #636;
+  color: #DCDCDC;
 }
 a:hover, a:active, a:focus {
   color:#c33;
